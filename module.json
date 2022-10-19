@@ -1,7 +1,7 @@
 {
     "name": "yarm",
     "author": "hail",
-    "version": "v100 - 1.2.1",
+    "version": "v100 - 1.2.2",
     "description": "yet another relog mod. call it yarm!",
     "options": {
         "cliName": "yarm",

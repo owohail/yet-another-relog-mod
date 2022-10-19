@@ -38,6 +38,9 @@ Command | Argument(s) | Example | Description
 ## changelog
 <details>
 
+### v100 - 1.2.2 (10/19/2022)
+- fuck me for wanting to have a comfy config folder right
+
 ### v100 - 1.2.1 (10/19/2022)
 - i forgot to edit the rest of the readme lol
 - fuck off md making 2 new lines required for a line break :^)
