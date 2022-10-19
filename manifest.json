@@ -2,7 +2,7 @@
     "files": {
         "index.js": "8845dd9965908783443655a83c1950182e2c0a32d3b5cad2d390eea25474ec12",
         "module.json": "a12c05116bf0b8e9edda777f8b55a8df9e4c7bcb4fb059af1ef912cb254898d1",
-        "readme.md": "01419d41f30fdf5ed33eb22eabaeecfd1e65405011670f99098052d12976e2b7"
+        "readme.md": "6674e5e64105717fe847de6eb07b5e6bd2ec0d5e6d8ea4639ed904d438c6262b"
     },
     "defs": {
         "C_NPCGUILD_LIST": [1,56890],

@@ -15,6 +15,7 @@ a relog mod with a name so long, it's easier to just call it **yarm**
 
 ## commands
 note that if you're using commands in the toolbox channel (`/8`), ignore the `!` prefix in the examples
+
 also, you can use `yarm` instead of `relog` if you'd prefer
 
 Command | Argument(s) | Example | Description
@@ -39,6 +40,7 @@ Command | Argument(s) | Example | Description
 
 ### v100 - 1.2.1 (10/19/2022)
 - i forgot to edit the rest of the readme lol
+- fuck off md making 2 new lines required for a line break :^)
 
 ### v100 - 1.2.0 (10/19/2022)
 - initial github release
