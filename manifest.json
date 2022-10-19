@@ -1,0 +1,20 @@
+{
+    "files": {
+        "index.js": "8845dd9965908783443655a83c1950182e2c0a32d3b5cad2d390eea25474ec12",
+        "module.json": "a12c05116bf0b8e9edda777f8b55a8df9e4c7bcb4fb059af1ef912cb254898d1",
+        "readme.md": "01419d41f30fdf5ed33eb22eabaeecfd1e65405011670f99098052d12976e2b7"
+    },
+    "defs": {
+        "C_NPCGUILD_LIST": [1,56890],
+        "C_REQUEST_NONDB_ITEM_INFO": "*",
+        "C_RETURN_TO_LOBBY": 1,
+        "C_SELECT_USER": 1,
+        "S_AVAILABLE_EVENT_MATCHING_LIST": "*",
+        "S_GET_USER_LIST": 18,
+        "S_NPCGUILD_LIST": "*",
+        "S_PREPARE_RETURN_TO_LOBBY": 1,
+        "S_RETURN_TO_LOBBY": 1,
+        "S_SPAWN_ME": "*",
+        "S_UPDATE_NPCGUILD": 69
+    }
+}

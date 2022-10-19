@@ -1,0 +1,13 @@
+{
+    "name": "yarm",
+    "author": "hail",
+    "version": "v100 - 1.2.1",
+    "description": "yet another relog mod. call it yarm!",
+    "options": {
+        "cliName": "yarm",
+        "guiName": "yet another relog mod"
+    },
+    "servers": ["https://raw.githubusercontent.com/hailstorming/yet-another-relog-mod/main/"],
+    "supportUrl": "https://github.com/hailstorming/yet-another-relog-mod/blob/main/readme.md",
+    "disableAutoUpdate": false
+}
